@@ -1,8 +1,8 @@
 # helm-charts
 
-Helm charts for projects by `mtougeron`
+Helm charts for projects by [mtougeron](https://github.com/mtougeron)
 
-For issues, please open a ticket for the appropriate project.
+For issues, please open a ticket for the appropriate project repo.
 
 ## Setup
 
