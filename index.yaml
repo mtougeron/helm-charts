@@ -3,6 +3,26 @@ entries:
   k8s-aws-ebs-tagger:
   - apiVersion: v2
     appVersion: v0.0.4
+    created: "2021-10-11T20:35:05.9161111Z"
+    description: An app to tag AWS EBS volumes based on a PVC annotation
+    digest: c3a0ea14898fb76bab83f865cb743c9ddaf71b4154e27bffda04e6e1fe147b3c
+    home: https://github.com/mtougeron/k8s-aws-ebs-tagger
+    keywords:
+    - kubernetes
+    - aws
+    - aws-ebs
+    maintainers:
+    - email: github@e.tougeron.com
+      name: mtougeron
+    name: k8s-aws-ebs-tagger
+    sources:
+    - https://github.com/mtougeron/k8s-aws-ebs-tagger
+    type: application
+    urls:
+    - https://mtougeron.github.io/helm-charts/k8s-aws-ebs-tagger-1.2.0.tgz
+    version: 1.2.0
+  - apiVersion: v2
+    appVersion: v0.0.4
     created: "2021-10-05T18:15:11.562914435Z"
     description: An app to tag AWS EBS volumes based on a PVC annotation
     digest: bb830604b2f347437c363331a354e5b1e2aa46a35bce9cdccb916182fdc3e816
@@ -141,4 +161,4 @@ entries:
     urls:
     - https://mtougeron.github.io/helm-charts/k8s-aws-ebs-tagger-0.1.1.tgz
     version: 0.1.1
-generated: "2021-10-05T18:15:11.562242535Z"
+generated: "2021-10-11T20:35:05.91538969Z"
