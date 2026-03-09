@@ -263,6 +263,33 @@ entries:
     version: 0.1.1
   k8s-pvc-tagger:
   - apiVersion: v2
+    appVersion: v1.2.2
+    created: "2026-03-09T19:44:21.296734133Z"
+    description: An app to tag cloud volumes based on a Kubernetes PVC annotation
+    digest: ecd8bc426977550202a0617b53e0e93e6bfd221b8cf70af440499c9996332513
+    home: https://github.com/mtougeron/k8s-pvc-tagger
+    keywords:
+    - kubernetes
+    - aws
+    - eks
+    - pvc
+    - gcp
+    - azure
+    - aks
+    - aws-ebs
+    - aws-efs
+    - persistent-volumes
+    maintainers:
+    - email: github@e.tougeron.com
+      name: mtougeron
+    name: k8s-pvc-tagger
+    sources:
+    - https://github.com/mtougeron/k8s-pvc-tagger
+    type: application
+    urls:
+    - https://mtougeron.github.io/helm-charts/k8s-pvc-tagger-2.3.3.tgz
+    version: 2.3.3
+  - apiVersion: v2
     appVersion: v1.2.1
     created: "2025-01-13T20:11:51.543520976Z"
     description: An app to tag cloud volumes based on a Kubernetes PVC annotation
@@ -630,4 +657,4 @@ entries:
     urls:
     - https://mtougeron.github.io/helm-charts/k8s-pvc-tagger-2.0.0.tgz
     version: 2.0.0
-generated: "2025-01-13T20:11:51.5429684Z"
+generated: "2026-03-09T19:44:21.296151464Z"
